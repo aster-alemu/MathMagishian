@@ -1,20 +1,46 @@
 # Math Magicians: setup
 
+📗 Table of Contents
+  📖 About the Project
+  🛠 Built With
+      - Tech Stack
+      - Key Features
+  🚀 Live Demo
+  💻 Getting Started
+      - Setup
+      - Run tests
+  👥 Authors
+  🤝 Contributing
+  ⭐️ Show your support
+  🙏 Acknowledgements
+  📝 License
+
+# Math Magicians
+
 This is my first project of the Math Magicians application. I set up the environment and tools needed to develop a React application.
 
 # Built With: 
 
 Tech Stack
 
+  - HTML
+  - CSS
+  - Javascript
   - React
-
+  - Webpack
   - NPM
+  - Lighthouse (An open-source, automated tool for improving the quality of web pages. It has audits for performance, accessibility, progressive web apps, SEO and more).
+  - Webhint (A customizable linting tool that helps you improve your site's accessibility, speed, cross-browser compatibility, and more by checking your code for best practices and common errors).
+  - Stylelint (A mighty, modern linter that helps you avoid errors and enforce conventions in your styles).
 
-Lighthouse (An open-source, automated tool for improving the quality of web pages. It has audits for performance, accessibility, progressive web apps, SEO and more).
+Key Features
 
-Webhint (A customizable linting tool that helps you improve your site's accessibility, speed, cross-browser compatibility, and more by checking your code for best practices and common errors).
+  - Make simple calculations.
+  - Read a random math-related quote.
 
-Stylelint (A mighty, modern linter that helps you avoid errors and enforce conventions in your styles).
+🚀 Live Demo
+
+  - has no live demo
 
 # Getting Started
 
@@ -37,7 +63,13 @@ To get a local copy up and running follow these simple example steps.
 
 4. Open the html file
 
-- run npm start
+  - run npm start
+
+Run tests
+To run tests, run the following command:
+  - npm
+  npm test
+
 
 # Author
 
