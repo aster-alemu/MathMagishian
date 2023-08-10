@@ -1,54 +1,38 @@
-> A React project for the math-magicians app
-## Built With
+# Math Magicians: setup
 
+This is my first project of the Math Magicians application. I set up the environment and tools needed to develop a React application.
+
+# Built With: 
 - React
 
-## Getting Started
-
-## 📝 License
-
-This project is not licensed.
-> A React project for the math-magicians app
-## Built With
-react
-## Getting Started
-
-**To get a local copy up clone the repo or download the full souce code**
-
+# Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-clone the repo first using the following command:
-git clone https://github.com/aster-alemu/Math-magicians.git
-then run the following commands:
-  cd react-math-magicians
-  npm install
-  npm start
-## Authors
+# Setup
 
-👤 **aster**
+1. Copy the repository's link and clone it to your local folder.
+- https://github.com/aster-alemu/MathMagishian.git
+2. Open folder in any of the text editors.
 
-- GitHub: [@aster-alemu](https://github.com/aster-alemu)
-- Twitter: [@aster-alemu](https://twitter.com/aster-alemu)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/aster-alemu)
+# Author
 
-## 🤝 Contributing
+Aster
+- GitHub: @aster-alemu / github.com/aster-alemu
+- Twitter: @aster-alemu / twitter.com/aster-alemu
+- LinkedIn: https://www.linkedin.com/in/aster-alemu-5a62a5211/
 
+# 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/aster-alemu/MATHMAGICIAN/issues).
+Feel free to check the issues page.
 
-## Show your support
-
+# Show your support
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
+Acknowledgments
 - Hat tip to anyone whose code was used
-- Inspiration
-- etc
+-Inspiration etc
 
-## 📝 License
-
+📝 License
 This project is not licensed.
