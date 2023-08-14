@@ -1,10 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
 
-* {
-  /* font-family: 'Roboto';
-  font-size: 18px; */
-}
-
 body {
   display: flex;
   justify-content: center;
