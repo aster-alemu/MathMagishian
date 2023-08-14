@@ -12,7 +12,7 @@ body {
   position: absolute;
   transform: translate(-50%, -50%);
   margin: 0 auto;
-  width: 400PX;
+  width: 400px;
   text-align: center;
   background: gray;
 }
@@ -20,18 +20,18 @@ body {
 .keypade {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  column-gap: 0PX;
-  grid-auto-rows: minmax(60PX, auto);
+  column-gap: 0px;
+  grid-auto-rows: minmax(60px, auto);
 }
 
 input[type="text"] {
   height: 40px;
-  width: 396PX;
+  width: 396px;
   background-color: #708090;
-  border: 0PX;
+  border: 0px;
   color: #ffffff;
   text-align: right;
-  font-size: 20PX;
+  font-size: 20px;
 }
 
 .zero {
@@ -39,7 +39,7 @@ input[type="text"] {
 }
 
 button {
-  margin: 0.5PX;
+  margin: 0.5px;
   border: none;
   background: lightgray;
 }
