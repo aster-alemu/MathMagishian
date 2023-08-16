@@ -1,4 +1,4 @@
-# Math Magicians: setup
+# Math magicians: events
 
 📗 Table of Contents
   📖 About the Project
@@ -17,7 +17,7 @@
 
 # Math Magicians
 
-This is my first project of the Math Magicians application. I set up the environment and tools needed to develop a React application.
+This is my third project of the Math Magicians application. I set up the environment and tools needed to develop a React application and develop a React component that hold the core functionality of a calculator and make the Calculator component developed in the previous project actually work. 
 
 # Built With: 
 
