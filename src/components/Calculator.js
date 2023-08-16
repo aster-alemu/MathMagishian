@@ -31,7 +31,7 @@ function Calculator() {
         <button name="AC" onClick={handleClick} type="button">AC</button>
         <button name="+/-" onClick={handleClick} type="button">&plusmn;</button>
         <button name="%" onClick={handleClick} type="button">&#37;</button>
-        <button className="highlight" name="/" onClick={handleClick} type="button">&divide;</button>
+        <button className="highlight" name="÷" onClick={handleClick} type="button">&divide;</button>
         <button name="7" onClick={handleClick} type="button">7</button>
         <button name="8" onClick={handleClick} type="button">8</button>
         <button name="9" onClick={handleClick} type="button">9</button>
