@@ -88,6 +88,9 @@ Give a ⭐️ if you like this project!
 - Hat tip to anyone whose code was used
 -Inspiration etc
 
-# 📝 License
 
-This project is MIT licensed.
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
