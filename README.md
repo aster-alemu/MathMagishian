@@ -1,4 +1,3 @@
-# Math magicians: fetch data from API
 
 📗 Table of Contents
   📖 About the Project
@@ -15,7 +14,7 @@
   🙏 Acknowledgements
   📝 License
 
-# Math Magicians
+# Math magicians: fetch data from API
 
 This is my fourth project of the Math Magicians application. I set up the environment and tools needed to develop a React application and develop a React component that hold the core functionality of a calculator and make the Calculator component developed in the previous project actually work and fetch data from an external API to display "quotes" alongside my calculator.
 
