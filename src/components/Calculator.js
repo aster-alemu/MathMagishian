@@ -1,9 +1,24 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import calculate from './logic/calculate';
 
 function Numbers() {
   return (
     <Calculator />
+  );
+}
+export function Fetchs() {
+  const [data, setData] = useState(null);
+  useEffect(() => {
+    fetch('https://api-ninjas.com/api/quotes')
+      .then((resp) => resp.json())
+      .then((apiData) => {
+        setData(apiData.message);
+      });
+  }, []);
+  return (
+    <div className="cont">
+      <h1>{data}</h1>
+    </div>
   );
 }
 function Calculator() {
