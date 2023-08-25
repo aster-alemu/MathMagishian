@@ -8,10 +8,9 @@ body {
 
 .container {
   top: 50%;
-  left: 50%;
   position: absolute;
   transform: translate(-50%, -50%);
-  margin: 0 auto;
+  margin-left: 600px;
   width: 400px;
   text-align: center;
   background: gray;
@@ -44,4 +43,32 @@ button {
 
 .highlight {
   background: #ff7518;
+}
+
+.nav-links-list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-links {
+  list-style: none;
+  text-align: right;
+  font-weight: 600;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+.navbar {
+  margin-left: 1100px;
+}
+
+.nav-links-list li {
+  border-right: 2px solid #c4c4c4;
+    display: inline-block;
+    float: left;
+    padding: 0 15px;
+}
+
+.linkContent {
+  margin-left: 100px;
 }

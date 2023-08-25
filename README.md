@@ -20,9 +20,9 @@
 - ❓ FAQ (OPTIONAL)
 - 📝 License
 
-📖 Math magicians: fetch data from API
+📖 Math magicians: full website
 
-This is my fourth project of the Math Magicians application. I set up the environment and tools needed to develop a React application and develop a React component that hold the core functionality of a calculator and make the Calculator component developed in the previous project actually work and fetch data from an external API to display "quotes" alongside my calculator.
+This is my fifth project of the Math Magicians application. I set up the environment and tools needed to develop a React application and create a full website for the Math magicians app, consisting of several pages and using the components I already created.
 
 🛠 Built With: 
 
@@ -42,7 +42,6 @@ Tech Stack
 
   - Make simple calculations.
   - Read a random math-related quote.
-  - generete quote from exeteral api
 
 🚀 Live Demo
 
