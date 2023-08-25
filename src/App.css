@@ -64,9 +64,9 @@ button {
 
 .nav-links-list li {
   border-right: 2px solid #c4c4c4;
-    display: inline-block;
-    float: left;
-    padding: 0 15px;
+  display: inline-block;
+  float: left;
+  padding: 0 15px;
 }
 
 .linkContent {
